@@ -12,8 +12,6 @@ Note: Works best with chats in german language! (Feel free to extend)
 * Distribution of number of messages and length of messages by user
 * Word frequency
 
-![main_functions](/static/examples.png)
-
 **Instructions**:
 
 1. Export WhatsApp Chat (without media)
